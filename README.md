@@ -5,7 +5,7 @@
 - 📫 How to reach me:
   * Email: ortiz.alva.angel@gmail.com
   * LinkedIn: www.linkedin.com/in/angel-alberto-ortiz-alva-ba4612303
-- ⚡ Fun fact: When I'm not designing solutions, you'll find me hiking scenic trails, enjoying video games, or dancing to the rhythm of reparto!
+- ⚡ Fun fact: When I'm not designing solutions, you'll find me hiking scenic trails, enjoying video games, or dancing to the rhythm of salsa or reparto!
 
 <!---
 👋 Hi there! Welcome to my GitHub profile!
